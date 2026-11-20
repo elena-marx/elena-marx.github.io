@@ -8,15 +8,15 @@ Welcome to my academic website.
 
 I investigate language
 
-# Current Research
+## Current Research
 
 Brief description of your research.
 
-# Publications
+## Publications
 
 Selected publications are listed below.
 
-# Contact
+## Contact
 
 marxe@ceu.edu
 
