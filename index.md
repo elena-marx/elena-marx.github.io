@@ -1,15 +1,12 @@
 ---
 ---
-layout: home
-title: "Home"
----
 
 
 Postdoctoral Researcher
 
 Welcome to my academic website.
 
-My research focuses on ...
+I investigate language
 
 # Current Research
 
@@ -22,4 +19,5 @@ Selected publications are listed below.
 # Contact
 
 marxe@ceu.edu
+
 ---
