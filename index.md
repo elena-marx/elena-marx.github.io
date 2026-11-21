@@ -1,11 +1,6 @@
 ---
 ---
-Welcome to my academic website.
+I am a Postdoctoral Researcher working at the Language Comprehension Lab (LCL) of CEU.
 
-I investigate language
-
-Selected publications are listed below.
-
-marxe@ceu.edu
-
+In my free time I knit
 ---
