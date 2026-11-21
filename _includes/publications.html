@@ -10,7 +10,11 @@
         <h4 class="fw-bold mt-4">{{ year[0] }}</h4>
         {% for paper in year[1] %}
           <p>
-            <a href="{{ paper.url }}">{{ paper.name }}</a>
+            <strong>
+              <a href="{{ paper.url }}">{{ paper.title }}</a>
+            </strong><br>
+            {{ paper.authors }}<br>
+            <em>{{ paper.venue }}</em>
           </p>
         {% endfor %}
       {% endfor %}        
