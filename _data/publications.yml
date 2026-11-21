@@ -1,9 +1,3 @@
-#featured:
-#  - name: "2025 - Temporal construal in sentence comprehension depends on linguistically encoded event structure"
-#    url: "/publications/2025_cognition.pdf"
-#- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-#- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-
 2025:
   - title: "Temporal construal in sentence comprehension depends on linguistically encoded event structure"
     authors: "Marx, E. & Wittenberg, E."
