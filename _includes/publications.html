@@ -6,9 +6,14 @@
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% else %}
-      {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
+      {% for year in site.data.publications %}
+        <h4 class="fw-bold mt-4">{{ year[0] }}</h4>
+        {% for paper in year[1] %}
+          <p>
+            <a href="{{ paper.url }}">{{ paper.name }}</a>
+          </p>
+        {% endfor %}
+      {% endfor %}        
     {% endif %}
   </div>
 </div>

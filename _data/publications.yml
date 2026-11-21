@@ -4,24 +4,35 @@
 #- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
 #- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 
-index:
-  - name: "2025 - Temporal construal in sentence comprehension depends on linguistically encoded event structure. Cognition"
+2025:
+  - name: "Temporal construal in sentence comprehension depends on linguistically encoded event structure. Cognition"
     url: "/publications/2025_cognition.pdf"
-  - name: "2025 - Is there a perfect state? Experimental evidence from English and Spanish for the perfect-as-state hypothesis. Glossa"
+
+  - name: "Is there a perfect state? Experimental evidence from English and Spanish for the perfect-as-state hypothesis. Glossa"
     url: "https://www.glossa-journal.org/article/id/18901/"
-  - name: "2025 - The state-before-event inference emerges across tenses. Open Mind"
+
+  - name: "The state-before-event inference emerges across tenses. Open Mind"
     url: "https://doi.org/10.1162/opmi_a_00207"
-  - name: "2025 - Temporal proximity inferences in complex sentence comprehension: Evidence from English complement and relative clauses. Proceedings of the 47th Annual Conference of the Cognitive Science Society"
+
+  - name: "Temporal proximity inferences in complex sentence comprehension: Evidence from English complement and relative clauses. Proceedings of the 47th Annual Conference of the Cognitive Science Society"
     url: "https://escholarship.org/uc/item/7s98p5c4"
-  - name: "2025 - Event construal through social verbs in English and German: The LISADA corpus. Proceedings of the 47th Annual Conference of the Cognitive Science Society"
+
+  - name: "Event construal through social verbs in English and German: The LISADA corpus. Proceedings of the 47th Annual Conference of the Cognitive Science Society"
     url: "https://escholarship.org/uc/item/8dq4s0v3"
-  - name: "2025 - Dynamicity predicts inferred temporal order in complex sentences: Evidence from English, German, and Polish. Cogntive Science"
+
+  - name: "Dynamicity predicts inferred temporal order in complex sentences: Evidence from English, German, and Polish. Cognitive Science"
     url: "https://doi.org/10.1111/cogs.70038"
-  - name: "2024 - Eventuality type predicts temporal order inferences in discourse comprehension. Glossa Psycholinguistics"
+
+2024:
+  - name: "Eventuality type predicts temporal order inferences in discourse comprehension. Glossa Psycholinguistics"
     url: "https://doi.org/10.5070/G60116579"
-  - name: "2023 - When you say that, do you mean it? Crosslinguistic patterns of anaphor resolution in English, German, and Polish. Proceedings of the 45th Annual Conference of the Cognitive Science Society"
+
+2023:
+  - name: "When you say that, do you mean it? Crosslinguistic patterns of anaphor resolution in English, German, and Polish. Proceedings of the 45th Annual Conference of the Cognitive Science Society"
     url: "https://escholarship.org/uc/item/64m534qg"
-  - name: "2022 - Event structure predicts temporal interpretation of English and German past-under-past relative clauses. Proceedings of the 44th Annual Conference of the Cognitive Science Society"
+
+2022:
+  - name: "Event structure predicts temporal interpretation of English and German past-under-past relative clauses. Proceedings of the 44th Annual Conference of the Cognitive Science Society"
     url: "https://escholarship.org/uc/item/5z61175d"
 
 #- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
