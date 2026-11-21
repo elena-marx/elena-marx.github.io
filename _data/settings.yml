@@ -22,5 +22,5 @@ social:
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Elena Marx', title: 'Postdoctoral Researcher', department: 'Cognitive Science', institution: 'CEU', institution_address: 'Quellenstrasse 51', email: 'marxe@ceu.edu'} 
+- {name: 'Elena Marx', title: 'Postdoctoral Researcher', institution: 'Department of Cognitive Science - CEU', institution_address: 'Quellenstrasse 51, Room D508', email: 'marxe@ceu.edu'}
 #image: 'assets/img/contact.jpg'}
