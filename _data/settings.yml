@@ -16,9 +16,20 @@ menu:
 #- {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/elena-marx'}
-- {icon: 'graduation-cap', link: 'https://scholar.google.com/citations?user=ORWaqFEAAAAJ&hl=de&oi=ao'}
-- {icon: 'university', link: 'https://lcl.ceu.edu'}
+  - type: github
+    link: "https://github.com/elena-marx"
+
+  - type: image
+    image: "/assets/scholar.svg"
+    link: "https://scholar.google.com/citations?user=ORWaqFEAAAAJ&hl=de&oi=ao"
+
+  - type: image
+    image: "/assets/ceu.png"
+    link: "https://lcl.ceu.edu"
+
+#- {icon: 'github', link: 'https://github.com/elena-marx'}
+#- {icon: 'graduation-cap', link: 'https://scholar.google.com/citations?user=ORWaqFEAAAAJ&hl=de&oi=ao'}
+#- {icon: 'university', link: 'https://lcl.ceu.edu'}
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
