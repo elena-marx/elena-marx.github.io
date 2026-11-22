@@ -17,7 +17,7 @@ menu:
 
 social:
 - {icon: 'github', link: 'https://github.com/elena-marx'}
-#- {icon: 'ceu', link: 'https://twitter.com/paululele'}
+- {icon: 'lcl', link: 'https://lcl.ceu.edu'}
 #- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
