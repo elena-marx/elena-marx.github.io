@@ -1,23 +1,48 @@
-<div class="row g-5 mb-5">
-  <div>
-    <!-- <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>-->
-    {% if page.title == "Home" %}
-      {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% else %}
-      {% for year in site.data.publications %}
-        <h4 class="fw-bold mt-4">{{ year[0] }}</h4>
-        {% for paper in year[1] %}
-          <p>
-            <strong>
-              <a href="{{ paper.url }}">{{ paper.title }}</a>
-            </strong><br>
-            {{ paper.authors }}<br>
-            <em>{{ paper.venue }}</em>
-          </p>
-        {% endfor %}
-      {% endfor %}        
-    {% endif %}
-  </div>
-</div>
+<h3 class="fw-bold mt-4">Journal Articles</h3>
+
+{% for year in site.data.publications %}
+
+  {% assign journals = year[1] | where: "type", "journal" %}
+
+  {% if journals.size > 0 %}
+    <h4 class="fw-bold mt-4">{{ year[0] }}</h4>
+
+    {% for paper in journals %}
+      <p>
+        <strong>
+          <a href="{{ paper.url }}" target="_blank">
+            {{ paper.title }}
+          </a>
+        </strong><br>
+        {{ paper.authors }}<br>
+        <em>{{ paper.venue }}</em>
+      </p>
+    {% endfor %}
+  {% endif %}
+
+{% endfor %}
+
+
+<h3 class="fw-bold mt-5">Conference Proceedings</h3>
+
+{% for year in site.data.publications %}
+
+  {% assign proceedings = year[1] | where: "type", "conference" %}
+
+  {% if proceedings.size > 0 %}
+    <h4 class="fw-bold mt-4">{{ year[0] }}</h4>
+
+    {% for paper in proceedings %}
+      <p>
+        <strong>
+          <a href="{{ paper.url }}" target="_blank">
+            {{ paper.title }}
+          </a>
+        </strong><br>
+        {{ paper.authors }}<br>
+        <em>{{ paper.venue }}</em>
+      </p>
+    {% endfor %}
+  {% endif %}
+
+{% endfor %}
