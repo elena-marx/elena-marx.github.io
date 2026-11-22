@@ -17,10 +17,10 @@ menu:
 
 social:
 - {icon: 'github', link: 'https://github.com/elena-marx'}
-- {icon: 'lcl', link: 'https://lcl.ceu.edu'}
-#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'graduation-cap', link: 'https://scholar.google.com/citations?user=ORWaqFEAAAAJ&hl=de&oi=ao'}
+- {icon: 'university', link: 'https://lcl.ceu.edu'}
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Elena Marx', title: 'Postdoctoral Researcher', institution: 'Department of Cognitive Science - CEU', institution_address: 'Quellenstrasse 51, Room D508', email: 'marxe@ceu.edu'}
+- {institution: 'Department of Cognitive Science - CEU', institution_address: 'Quellenstrasse 51, Room D508', email: 'marxe@ceu.edu'}
 #image: 'assets/img/contact.jpg'}
