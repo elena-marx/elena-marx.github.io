@@ -17,7 +17,7 @@ menu:
 
 social:
   - {icon: 'github', style: 'fab', link: 'https://github.com/elena-marx'}
-  - {icon: 'graduation-cap', style: 'fas', link: 'YOUR_GOOGLE_SCHOLAR_URL'}
+  - {icon: 'book', style: 'fas', link: 'YOUR_GOOGLE_SCHOLAR_URL'}
   - {icon: 'university', style: 'fas', link: 'https://lcl.ceu.edu'}
 
 #- {icon: 'github', link: 'https://github.com/elena-marx'}
