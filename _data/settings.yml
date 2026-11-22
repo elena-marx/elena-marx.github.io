@@ -26,5 +26,5 @@ social:
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {department: 'Department of Cognitive Science - CEU', institution: 'LCL',institution_address: 'Quellenstrasse 51, Room D508', email: 'marxe@ceu.edu'}
+- {institution: 'LCL', department: 'Department of Cognitive Science - CEU', institution_address: 'Quellenstrasse 51, Room D508', email: 'marxe@ceu.edu'}
 #image: 'assets/img/contact.jpg'}
