@@ -5,7 +5,7 @@
   {% assign journals = year[1] | where: "type", "journal" %}
 
   {% if journals.size > 0 %}
-    <h5 class="fw-bold mt-3">{{ year[0] }}</h5>
+    <h5>{{ year[0] }}</h5>
 
     {% for paper in journals %}
       <p>
@@ -21,7 +21,7 @@
   {% endif %}
 
 {% endfor %}
-
+<br>
 
 <h4>Conference Proceedings</h4>
 
@@ -30,7 +30,7 @@
   {% assign proceedings = year[1] | where: "type", "conference" %}
 
   {% if proceedings.size > 0 %}
-    <h5 class="fw-bold mt-3">{{ year[0] }}</h5>
+    <h5>{{ year[0] }}</h5>
 
     {% for paper in proceedings %}
       <p>
