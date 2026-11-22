@@ -17,7 +17,7 @@ menu:
 
 social:
   - {icon: 'github', style: 'fab', link: 'https://github.com/elena-marx'}
-  - {icon: 'book', style: 'fas', link: 'YOUR_GOOGLE_SCHOLAR_URL'}
+  - {icon: 'book', style: 'fas', link: 'https://scholar.google.com/citations?user=ORWaqFEAAAAJ&hl=de&oi=ao'}
   - {icon: 'university', style: 'fas', link: 'https://lcl.ceu.edu'}
 
 #- {icon: 'github', link: 'https://github.com/elena-marx'}
@@ -26,5 +26,5 @@ social:
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Department of Cognitive Science - CEU', institution: 'LCL',institution_address: 'Quellenstrasse 51, Room D508', email: 'marxe@ceu.edu'}
+- {department: 'Department of Cognitive Science - CEU', institution: 'LCL',institution_address: 'Quellenstrasse 51, Room D508', email: 'marxe@ceu.edu'}
 #image: 'assets/img/contact.jpg'}
