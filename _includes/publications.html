@@ -1,11 +1,11 @@
-<h3 class="fw-bold mt-4">Journal Articles</h3>
+<h4>Journal Articles</h4>
 
 {% for year in site.data.publications %}
 
   {% assign journals = year[1] | where: "type", "journal" %}
 
   {% if journals.size > 0 %}
-    <h4 class="fw-bold mt-4">{{ year[0] }}</h4>
+    <h5 class="fw-bold mt-3">{{ year[0] }}</h5>
 
     {% for paper in journals %}
       <p>
@@ -23,14 +23,14 @@
 {% endfor %}
 
 
-<h3 class="fw-bold mt-5">Conference Proceedings</h3>
+<h4>Conference Proceedings</h4>
 
 {% for year in site.data.publications %}
 
   {% assign proceedings = year[1] | where: "type", "conference" %}
 
   {% if proceedings.size > 0 %}
-    <h4 class="fw-bold mt-4">{{ year[0] }}</h4>
+    <h5 class="fw-bold mt-3">{{ year[0] }}</h5>
 
     {% for paper in proceedings %}
       <p>
