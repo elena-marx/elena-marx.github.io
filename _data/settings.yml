@@ -16,10 +16,10 @@ menu:
 #- {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-  - {icon: 'github', style: 'fab', link: 'https://github.com/elena-marx'}
+  - {image: 'assets/git.png', link: 'https://github.com/elena-marx'}
   - {image: 'assets/scholar.png', style: 'fas', link: 'https://scholar.google.com/citations?user=ORWaqFEAAAAJ&hl=de&oi=ao'}
   - {image: '/assets/orcid.png', link: 'https://orcid.org/0000-0002-2199-3625'}
-  - {icon: 'university', style: 'fas', link: 'https://lcl.ceu.edu'}
+  - {image: 'assets/uni.png', link: 'https://lcl.ceu.edu'}
 
 #- {icon: 'github', link: 'https://github.com/elena-marx'}
 #- {icon: 'graduation-cap', link: 'https://scholar.google.com/citations?user=ORWaqFEAAAAJ&hl=de&oi=ao'}
