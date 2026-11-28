@@ -17,7 +17,7 @@ menu:
 
 social:
   - {icon: 'github', style: 'fab', link: 'https://github.com/elena-marx'}
-  - {icon: 'book', style: 'fas', link: 'https://scholar.google.com/citations?user=ORWaqFEAAAAJ&hl=de&oi=ao'}
+  - {image: 'assets/scholar.png', style: 'fas', link: 'https://scholar.google.com/citations?user=ORWaqFEAAAAJ&hl=de&oi=ao'}
   - {image: '/assets/orcid.png', link: 'https://orcid.org/0000-0002-2199-3625'}
   - {icon: 'university', style: 'fas', link: 'https://lcl.ceu.edu'}
 
